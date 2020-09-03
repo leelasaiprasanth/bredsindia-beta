@@ -1,0 +1,86 @@
+!-- ==========================================================
+    1.*Header_area start
+============================================================ -->
+    <header>
+        <div class="romana_header_top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-9 col-sm-8">
+                        <div class="romana_header_top_left">
+                            <ul>
+                                <li><a href="#">faq</a></li>
+                                <li><a href="#">support</a></li>
+                                <li><a href="contact.html">contact</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- column End -->
+                    <div class="col-md-3 col-sm-4">
+                        <div class="romana_header_top_right text-right">
+                            <a href="tel:">Donation Hotline : +011-223-3445</a>
+                        </div>
+                    </div>
+                    <!-- column End -->
+                </div>
+                <!-- row End -->
+            </div>
+            <!-- container End -->
+        </div>
+        <!-- Header-Top End -->
+           
+          
+      (vision dropdown pages)         
+          <ul class="dropdown-menu">
+                                        <li><a href="cause.html">Causes Page</a></li>
+                                        <li><a href="cause-detail.html">Causes detail</a></li>
+                                    </ul>
+                
+                      
+                    </div>
+                    <!-- column End -->
+
+
+
+
+
+      (gender policy dropdown pages)
+       <ul class="dropdown-menu">
+                                        <li><a href="event.html">events Page</a></li>
+                                        <li><a href="event-detail.html">events detail</a></li>
+                                    </ul>
+
+
+
+
+
+
+
+
+
+       (one of the tab)
+         <li><a href="#">news</a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="news.html">news Page</a></li>
+                                        <li><a href="news-detail.html">news detail</a></li>
+                                    </ul>
+                                </li>
+
+
+
+
+
+
+
+      
+
+             </nav>
+                        <!-- nav End -->
+                        <ul class="cartSearch">
+                            <li class="search"><a href="#"><i class="icofont icofont-search"></i></a></li>
+                            <li class="donation"><a href="donation.html" class="hvr-box-shadow-outset">Donate Now</a></li>
+                        </ul>
+                        <!-- cartSearch End -->
+
+
+
+

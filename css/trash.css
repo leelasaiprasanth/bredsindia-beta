@@ -1,0 +1,101 @@
+2.*Hero_area start
+============================================================ -->
+    <section class="romana_hero_area">
+        <div class="hero_slider">
+            <div class="hero_slider_bg">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xs-12">
+                           <!-- <div class="romana_hero_text">
+                               <h1>Give a hand to make <br> the <span>better</span> world.</h1>
+                                <p>Delenit augue duis dolore te feugait nulla facilisi. Namtuni duis liber tempor tum
+                                   </p>
+                                <div class="romana_slider_btn">
+                                   <a href="#" class="hvr-box-shadow-outset">Donate to BREDS </a> 
+                                </div>
+                                <div class="slider_prg">
+                                    <div class="slider_prg_in"></div>
+                                </div>
+                            </div> -->
+                        </div>
+                        <!-- column end -->
+                    </div>
+                    <!-- row end -->
+                </div>
+                <!-- container end -->
+            </div>
+            <!-- item one end -->
+
+            <div class="hero_slider_bg" style="background-image: url(images/banner1.jpg)">
+                 <div class="hero_slider_bg" style="background-image: url(images/banner2.jpg)">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <!-- <div class="romana_hero_text">
+                                <h1>Give a hand to make <br> the <span>better</span> world.</h1>
+                                <p>Delenit augue duis dolore te feugait nulla facilisi. Namtuni duis liber tempor tum
+                                    <br>soluta nobis eleifend option congue nihil imperdiet doming.</p>
+                                <div class="romana_slider_btn">
+                                    <a href="#" class="hvr-box-shadow-outset">Donate To BREDS</a>
+                                </div>
+                                <div class="slider_prg">
+                                    <div class="slider_prg_in"></div>
+                                </div>
+                            </div> -->
+                        </div>
+                        <!-- column end -->
+                    </div>
+                    <!-- row end -->
+                </div>
+                <!-- container end -->
+            </div>
+            <!-- item two end -->
+        </div>
+    </section>
+    <!-- HeroSlider area end -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="row">
+    <div class="container">
+        <br>
+<center><div class="row">
+    <div class="slider">
+  
+  <a href="#slide-1">1</a>
+  <a href="#slide-2">2</a>
+  <a href="#slide-3">3</a>
+  <a href="#slide-4">4</a>
+  <a href="#slide-5">5</a>
+
+  <div class="slides">
+    <div id="slide-1">
+      1
+    </div>
+    <div id="slide-2">
+      2
+    </div>
+    <div id="slide-3">
+      3
+    </div>
+    <div id="slide-4">
+      4
+    </div>
+    <div id="slide-5">
+      5
+    </div>
+  </div>
+</div>
+</div></center>
+    </div>
+</div>

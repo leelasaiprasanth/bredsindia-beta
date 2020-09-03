@@ -1,0 +1,87 @@
+- ==================================================
+10.*Footer_area start
+=================================================== -->
+    <footer class="romana_footer_area romana_section_padding">
+        <div class="romana_footer_top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-3 col-sm-6">
+                        <div class="footer_left_text">
+                            <div class="footer_logo">
+                                <a href="#"><img src="images/footer_logo.png" alt="logo"></a>
+                            </div>
+                            <p>Autem vel eum iriure dolor in lorem hendrerit velit esse consequat, vel illum dolore feugiat nulla facilisis at vero eros et accumsan et iusto odio dign issim qui blandit praesent lupt...</p>
+                        </div>
+                    </div>
+                    <!-- column End -->
+                    <div class="col-md-3 col-sm-6">
+                        <div class="footer_menu">
+                            <h2>Recent Causes</h2>
+                            <ul>
+                                <li><i class="icofont icofont-thin-right"></i><a href="#">Food for children</a></li>
+                                <li><i class="icofont icofont-thin-right"></i><a href="#">water for children</a></li>
+                                <li><i class="icofont icofont-thin-right"></i><a href="#">education for children</a></li>
+                                <li><i class="icofont icofont-thin-right"></i><a href="#">safety for children</a></li>
+                                <li><i class="icofont icofont-thin-right"></i><a href="#">medical support</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- column End -->
+                    <div class="col-md-3 col-sm-6">
+                        <div class="footer_recent_news">
+                            <h2>Recent News</h2>
+                            <div class="romana_single_footer_news">
+                                <div class="romana_single_footer_news_img">
+                                    <img src="images/footer_img1.jpg" alt="">
+                                </div>
+                                <div class="romana_single_footer_news_text">
+                                    <a href="news-detail.html"><h3>Childrens are sturving</h3></a>
+                                    <p>November 14, 2016</p>
+                                </div>
+                            </div>
+                            <div class="romana_single_footer_news">
+                                <div class="romana_single_footer_news_img">
+                                    <img src="images/footer_img2.jpg" alt="">
+                                </div>
+                                <div class="romana_single_footer_news_text">
+                                    <a href="news-detail.html"><h3>Childrens are sturving</h3></a>
+                                    <p>November 14, 2016</p>
+                                </div>
+                            </div>
+                            <div class="romana_single_footer_news">
+                                <div class="romana_single_footer_news_img">
+                                    <img src="images/footer_img3.jpg" alt="">
+                                </div>
+                                <div class="romana_single_footer_news_text">
+                                    <a href="news-detail.html"><h3>Childrens are sturving</h3></a>
+                                    <p>November 14, 2016</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- column End -->
+                    <div class="col-md-2 col-md-offset-1 col-sm-6">
+                        <div class="footer_contact">
+                            <h2>contact us</h2>
+                            <div class="romana_single_contact">
+                                <p>Call us <span>+011-223-445</span></p>
+                            </div>
+                            <div class="romana_single_contact">
+                                <p>Email us<span>crazycafe.net@gmail.com</span></p>
+                            </div>
+                            <div class="romana_single_contact">
+                                <address>
+                                Address
+                                <span>
+                                    72/D Parkstreet view,<br>
+                                    Orland Home.
+                                </span>
+                            </address>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- column End -->
+                </div>
+            </div>
+        </div>
+        <!-- footer_top End -->
